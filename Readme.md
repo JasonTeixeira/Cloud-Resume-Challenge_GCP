@@ -1,5 +1,7 @@
 # High-Availability Web Application with AWS CloudFront, S3, and RDS MySQL
 
+![High-Availability Web Application on AWS](./High-Availability%20Web%20Application%20on%20AWS.png)
+
 ## **Project Overview**
 
 This repository hosts the infrastructure and code for a highly available, scalable, and secure web application deployed on AWS. The solution leverages AWS services such as **CloudFront** for global content delivery, **RDS MySQL** for relational database management, **EC2 instances** for application hosting, and **S3** for static content storage.
